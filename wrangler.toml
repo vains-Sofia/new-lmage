@@ -14,7 +14,7 @@ FILE_STATUS_CHECK = "off"
 [[d1_databases]]
 binding = "DB"
 database_name = "image"
-database_id = "484dd7ca-eb1f-41bf-b913-9b1edcc36da1"
+database_id = "2184b555-90fd-48a9-8c71-bb12f0b66556"
 
 [build]
 command = "node build-platform.js"
